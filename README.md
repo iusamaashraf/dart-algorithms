@@ -1,5 +1,5 @@
 # Dart Algorithms and Data Structures
-This repository contains implementation of Data Structures and Algorithms implemented in [Dart](https://dart.dev) Programming Language.
+This repository contains implementation of Data Structures and Algorithms in [Dart](https://dart.dev) programming language.
 
 
 ## Data Structures
