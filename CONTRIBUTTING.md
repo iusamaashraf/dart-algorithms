@@ -5,6 +5,4 @@ To Contribute you just have to solve a Coding Challenge in Dart Programming Lang
 
 You can pick any coding challenge from any Coding Challenges Website and make sure that challenge is not present in [problem-solving](lib/problem-solving/solutions/).
 
-If folder with that website'name is not present then make a new one and name your dart file name same as website's name from which you have picked the coding challenge.
-
-After solving that challenge create a pull request.
+Create a dart file with in [solution](lib/problem-solving/solutions/) folder and paste your dart solution in there and make pull request. Make sure you name your dart file same as that problem's name.
