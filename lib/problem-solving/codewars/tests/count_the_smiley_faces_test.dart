@@ -1,4 +1,3 @@
-// Tests
 import 'package:dart_algorithms/problem-solving/codewars/solutions/count_the_smiley_faces.dart';
 import 'package:test/test.dart';
 
