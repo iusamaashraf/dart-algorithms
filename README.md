@@ -1,5 +1,5 @@
 # Learn Dart
-This repository contains Cheatsheet, Data Structures, Algorithms, Coding Challenges, and other resources to learn Dart Programming Language.
+This repository (In Progress) contains Cheatsheet, Data Structures, Algorithms, Coding Challenges, and other resources to learn Dart Programming Language.
 
 ## Contribution
 Any contribution is highly appreciated. As this repository is in its start phase we need more and more Dart/Flutter Developers to contribute to this repository.
