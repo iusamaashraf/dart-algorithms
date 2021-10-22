@@ -1,50 +1,18 @@
-# Dart Algorithms and Data Structures
-This repository contains implementation of Data Structures and Algorithms in [Dart](https://dart.dev) programming language.
+# Learn Dart
+This repository contains Cheatsheet, Data Structures, Algorithms, Coding Challenges, and other resources to learn Dart Programming Language.
+
+## Contribution
+Any contribution is highly appreciated. As this repository is in its start phase we need more and more Dart/Flutter Developers to contribute to this repository.
+
+Currently we are accepting only below contribution:
+    
+    - Coding Problems Solved in Dart Programming Language
+Kindly read [Contribution Guide]() for better understanding.
 
 
-## Data Structures
-A data structure is a particular way of organizing data in a computer so that it can be used effectively.
-
-[Learn Data Structures](https://www.geeksforgeeks.org/data-structures/) (GeeksForGeeks)
-
-- [ ] Array
-- [ ] Stack
-- [ ] Queue
-- [ ] Linked List
-- [ ] Binary Tree
-- [ ] Binary Search Tree
-- [ ] Graph
-- [ ] Heap
-- [ ] Hashing
-- [ ] Matrix
 
 
-## Algorithms
-In mathematics and computer science, an algorithm is a finite sequence of well-defined, computer-implementable instructions, typically to solve a class of specific problems or to perform a computation. [Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
-
-[Learn Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/) (GeeksForGeeks)
-
-- [ ] Searching Algorithms
-    - [ ] Linear Search
-    - [ ] Binary Search
-- [ ] Sorting Algorithms
-    - [ ] Selection Sort
-    - [ ] Bubble Sort
-    - [ ] Insertion Sort 
-    - [ ] Merge Sort 
-    - [ ] Heap Sort 
-    - [ ] Quick Sort 
-    - [ ] Shell Sort 
-- [ ] Greedy Algorithms
-- [ ] Dynamic Programming
-- [ ] Divide and Conquer
-- [ ] Mathematical Algorithms
-- [ ] Graph Algorithms
 
 
-## Coding Challenges
-Coding Challenges/Problems with solution (Solved in Dart Programming Language) and link to source. Challanges are picked from different coding challenges websites.
 
-- [Exercism](lib/problem-solving/codewars/README.md)
-- Codewars
 
